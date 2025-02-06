@@ -1,4 +1,4 @@
-🤖## João Vitor Zimmermann 
+## 🤖 João Vitor Zimmermann 
 
 ### 🧰 Languages and Tools
 
