@@ -14,8 +14,8 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />  
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Hugging Face" width="30px" style="padding-right:10px;" src="https://huggingface.co/front/assets/huggingface_logo.svg" />
-<img align="left" alt="LangChain" width="30px" style="padding-right:10px;"
-src="https://iconify.design/icon/svg/simple-icons/langchain.svg" />
+<img align="left" alt="LangChain" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/langchain.svg" />
+
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
 
