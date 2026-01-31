@@ -13,14 +13,10 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />     
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />  
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="Hugging Face" width="30px" style="padding-right:10px;"
-src="https://www.svgrepo.com/show/434117/hugging-face.svg" />
-<img align="left" alt="Hugging Face" width="30px" style="padding-right:10px;"
-src="https://www.svgrepo.com/show/434117/langchain.svg" />
+<img align="left" alt="Hugging Face" width="30px" style="padding-right:10px;" src="https://huggingface.co/front/assets/huggingface_logo.svg" />
+<img align="left" alt="Hugging Face" width="30px" style="padding-right:10px;" src="https://huggingface.co/front/assets/huggingface_logo.svg" />
+<img align="left" alt="LangChain" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="LangChain" width="30px" style="padding-right:10px;"
-src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain.svg" />
-
 
 
           
